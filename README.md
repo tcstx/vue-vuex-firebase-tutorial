@@ -2,6 +2,8 @@
 
 > A Vue.js project
 
+> Working URL: https://tcstx.github.io/vue-vuex-firebase-tutorial
+
 ## Build Setup
 
 ``` bash
